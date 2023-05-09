@@ -1,0 +1,194 @@
+
+/* fonts*/
+@font-face {
+    font-family: 'iranSans';
+    src: url("../fonts/IRANSansX-Medium.woff");
+}
+
+
+body{
+    font-family: Vazirmatn, sans-serif;
+    direction: rtl !important;
+}
+.dl-menu{
+    direction: rtl !important;
+    font-family: 'Vazirmatn';
+}
+.dl-menu a,.dl-menu li a{
+    font-size: 14px !important;
+}
+.p-music{
+    float: left;
+    font-size: 20px;
+    color: purple;
+    text-decoration: none;
+    background: #EDE3E4;
+    border-radius: 5px;
+}
+.text-uppercase{
+    font-family: 'iranSans' !important;
+}
+#contents-weblog{
+    background: #007fff;
+}
+.go-to-weblog:hover{
+    background: dodgerblue;
+    transition: all 0.3s ease-out;
+    color: #fff;
+}
+.shwo-all-musics:hover{
+    background: greenyellow;
+    transition: all 0.3s ease-out;
+}
+.next-content{
+    font-family: Vazirmatn;
+    background: deeppink;
+    color: #fcf8e3;
+    border:1px solid #fff;
+}
+.next-content:hover{
+    background: transparent;
+    transition: background 0.4s ease-out;
+}
+.title-post{
+    font-family: 'Vazirmatn';
+}
+.weblog-description{
+    font-family: 'iranSans';
+    text-align: justify;
+}
+.IranSans{
+    font-family: 'iranSans' !important;
+}
+.b-danger{
+    background: red !important;
+    color: #fff !important;
+}
+.title-real-weblog{
+    direction: rtl !important;
+}
+.b-tag{
+    background: #F51720 !important;
+    color: #fff !important;
+    box-sizing: border-box;
+    padding: 6px !important;
+    border-radius: 6px;
+    transition: background 0.4s ease-out;
+    margin-bottom: 5px !important;
+}
+.b-tag:hover{
+    background: red !important;
+    transition: background 0.3s ease-in;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.btn-send-comment:hover{
+    background: #00dd1c;
+}
+.text-gray{
+    color: gray !important;
+}
+#store_music{
+    font-family: 'Vazirmatn' !important;
+    cursor: pointer;
+}
+.btn-download{
+    width: 100px !important;
+    height: 35px !important;
+    position: relative;
+    top: 15px !important;
+    outline: none !important;
+    border: 2px solid #fff;
+    border-radius: 6px !important;
+}
+.title-music{
+    margin: 19px 0px;
+}
+.btn-single-download{
+    width: 305px;
+    height: 45px;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    transition: background 0.4s ease-out;
+}
+.b-tag-music{
+    background: indigo !important;
+    color: #fff !important;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 6px !important;
+    transition: background 0.4s ease-out;
+    margin-bottom: 5px !important;
+}
+.b-tag-music:hover{
+    background: purple !important;
+}
+.share-music{
+   background: url("../img/share5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.share-with{
+   background: orangered !important;
+    color: #fff !important;
+    border-radius: 4px;
+}
+.btn-single-download:hover{
+    background: darkred !important;
+}
+
+.fa-download{
+    margin-right: 3px !important;
+}
+@media only screen and (max-width: 318px) {
+.btn-single-download ,.audio{
+    width: 250px !important;
+}
+}
+.weblog-text{
+    color: black !important;
+}
+.all-music-title{
+    border-bottom: 2px solid gray;
+   background: url("../img/موسیقی-10.jpg");
+    color: gold;
+    border-radius: 5px;
+}
+.all-music{
+    align-items: center !important;
+}
+.star-bg-gold{
+    color: gold !important;
+}
+.visit1{
+    background: #F0FF42 !important;
+    color: black !important;
+    padding: 4px;
+    border-radius: 4px;
+    font-family: Vazirmatn !important;
+}
+.visit1 i{
+    margin-left: 3px !important;
+}
+.nevisandegan{
+    background: black !important;
+    color: #fff !important;
+    padding: 4px;
+    border-radius: 4px;
+    font-family: Vazirmatn !important;
+    margin: 3px !important;
+}
+.nevisandeh{
+    background: #FBE7C6 !important;
+    color: black !important;
+    padding: 4px;
+    border-radius: 4px;
+    font-family: Vazirmatn !important;
+    margin: 3px !important;
+}
+

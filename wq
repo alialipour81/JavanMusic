@@ -1,0 +1,101 @@
+[33mcommit 6607d4618644487ac2d41a72b858e18ab4e914a0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Fri Nov 25 04:55:42 2022 -0800
+
+    fix Middleware Admin
+
+[33mcommit 13ed2e4a3d05a540b54a77dba335e363d1f4e143[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Tue Nov 22 00:53:06 2022 -0800
+
+    complate part management users without function destroy in UsersController
+
+[33mcommit 4725daa393479be8f38a6a346fe937d11d74bdc2[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Sun Nov 20 06:35:46 2022 -0800
+
+    complate part slider without fix-error-show-slider
+
+[33mcommit fb7d3c0d64191988d749f12a64283d1ad4ba1f17[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Sun Nov 20 01:29:23 2022 -0800
+
+    complate part protections and offcial index without sliders
+
+[33mcommit e8ad40dc8e0428ca3317109650ce107a486ef357[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Fri Nov 18 06:57:03 2022 -0800
+
+    complate part comments and fix-errors
+
+[33mcommit e8dbdc135e45fd4cb67ebc7de50eac912345a6d6[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Wed Nov 16 04:01:33 2022 -0800
+
+    complate part blog and article blade.php =>backend and change music backend
+
+[33mcommit 8a9d93df0a262a6c238ad8da3ee7be1968eb007f[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Sun Nov 13 03:56:57 2022 -0800
+
+    complate-part view on music
+
+[33mcommit 76bb5791c3c4a62750ef9d50003f4472e5f7cbc6[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Sat Nov 12 04:19:54 2022 -0800
+
+    complate-part comments music and share
+
+[33mcommit dc47b498b4d5281af2aba844dac9aa0188d0b999[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Thu Nov 10 03:38:22 2022 -0800
+
+    complate search part music and add table comments
+
+[33mcommit eed5fcad6f92fc40042f5421087aaf937f72c3dc[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Thu Nov 10 02:00:28 2022 -0800
+
+    complate backend music and musics blade.php without part comments
+
+[33mcommit fa28171369fad2cd214ce2194df2264b48fdaaa2[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Tue Nov 8 01:46:48 2022 -0800
+
+    fix-error-in-backend front album.blade.php
+
+[33mcommit 4a4b8de15b5efc73981761509fe16ffc9e5c2fb3[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Tue Nov 8 01:31:42 2022 -0800
+
+    complate backend fronts albums and album
+
+[33mcommit 4e2bce5f3dfd17d21295070d8c29d12008630db8[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Mon Nov 7 06:06:37 2022 -0800
+
+    complate-98%-part-music
+
+[33mcommit f77b6c2af1ec06ce9114053e26f13aafd0cb9cc6[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Sun Nov 6 00:56:30 2022 -0700
+
+    complate 80% -part-albums
+
+[33mcommit 34551faa1ea9e434f5dccf6505e660ad790222d3[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Sat Nov 5 03:29:36 2022 -0700
+
+    complate-part-Artists
+
+[33mcommit 80a2fd196b26df34f49ed83708910d4545f88a89[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Sat Nov 5 02:42:39 2022 -0700
+
+    complate-part-tags
+
+[33mcommit 4d3cc5e1d1d9b0b16a3cd68db595ca9ce68920c4[m
+Author: ali alipour <aliox200200@gmail.com>
+Date:   Fri Nov 4 07:01:24 2022 -0700
+
+    complate-part-category
